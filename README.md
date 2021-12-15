@@ -18,8 +18,10 @@ Tasty&Healthy is a worldwide restaurant that have just opened a new branch in Ja
     Ad Screenshot
 </p>
 
-**Figma:** https://...
+**Figma:** [Tasty&Healthy](https://www.figma.com/file/tzLMH4Vw1PJd27NaRdylQW/Tasty%26Healthy?node-id=0%3A1)
 
-**Live Preview:** https://...
+**Figma Prototype:** [Tasty&Healthy Prototype](https://www.figma.com/proto/tzLMH4Vw1PJd27NaRdylQW/Tasty%26Healthy?page-id=0%3A1&node-id=25%3A1012&viewport=280%2C48%2C0.11&scaling=scale-down-width&starting-point-node-id=25%3A1012&show-proto-sidebar=1)
 
-**Source Code:** https://...
+**Live Preview:** [Preview](http://benadra.me/Brief-Restaurant-Tasty-Healthy/)
+
+**Source Code:** [Github](https://github.com/aymenBenadra/Brief-Restaurant-Tasty-Healthy)
